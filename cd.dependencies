@@ -2,6 +2,6 @@
   {
     "repository": "CyanogenMod/android_kernel_goldfish",
     "target_path": "kernel/goldfish",
-    "branch": "cm-10.2"
+    "branch": "cm-11.0"
   }
 ]
